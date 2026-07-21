@@ -6,7 +6,7 @@ import { ScrollTrigger } from "gsap/ScrollTrigger";
 
 const experiences = [
   {
-    role: "Full Stack Developer",
+    role: "Junior Software Developer",
     company: "Skylynx Technologies LLP, Satara",
     period: "Feb 2025 - Present",
     desc: [

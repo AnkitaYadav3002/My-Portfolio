@@ -69,7 +69,7 @@ const Navbar = () => {
                 Ankita <span className="text-purple-500">Yadav</span>
               </h1>
               <p className="text-[6px] xs:text-[7px] sm:text-[8px] md:text-[9px] font-bold text-gray-500 tracking-widest sm:tracking-[0.15em] md:tracking-[0.2em] uppercase">
-                Full Stack Developer
+                Junior Software Developer
               </p>
             </div>
           </motion.div>
